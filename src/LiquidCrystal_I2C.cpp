@@ -1,4 +1,5 @@
 #include "LiquidCrystal_I2C.h"
+#include <Wire.h>
 
 // When the display powers up, it is configured as follows:
 //
